@@ -1,0 +1,10 @@
+useState
+useEffect
+PropTypes
+useContext
+BrowserRouter
+Route
+Routes
+framer-motion
+react-icons
+Link
