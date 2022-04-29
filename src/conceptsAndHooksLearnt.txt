@@ -8,3 +8,5 @@ Routes
 framer-motion
 react-icons
 Link
+Back-end :- JSON Server (from npm)
+npm Concurrently
