@@ -142,15 +142,6 @@ Potential improvements for future versions include:
 * [ ] Add automated tests
 * [ ] Deploy the application publicly
 
-## 📸 Screenshots
-
-*Add screenshots of the application here.*
-
-Example:
-
-```markdown
-![Feedback UI Screenshot](./screenshots/feedback-ui.png)
-```
 
 ## 🌐 Repository
 
